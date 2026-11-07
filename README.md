@@ -2,9 +2,9 @@
 
 ## 1. Identitas Peserta
 
-- **Nama:** Samuel Febriantt
+- **Nama:** Samuel Febriant Makomakoro
 - **Kelompok:** Bus Simulator
-- **Kegiatan:** Day 1 Proyek Workshop
+- **Kegiatan:** Day 1 
 - **Tahun:** 2026
 
 ## 2. Deskripsi Repository
