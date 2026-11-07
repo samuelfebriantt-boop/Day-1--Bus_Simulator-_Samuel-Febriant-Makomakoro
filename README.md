@@ -3,9 +3,9 @@
 ## 1. Identitas Peserta
 
 - **Nama:** Samuel Febriant Makomakoro
-- **Kelompok:** Bus Simulator
+- **Kelompok:** 09-Bus Simulator
 - **Kegiatan:** Day 1 
-- **Tahun:** 2026
+- **Program Studi:** D4 Teknik Informatika 
 
 ## 2. Deskripsi Repository
 
